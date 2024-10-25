@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $botToken = "7635063415:AAFq8psLp52CWEVcyVNYDIGeQiA0BQT7e-MKEN";
     
     // Replace with your chat ID or a specific Telegram chat ID
-    $chatId = "@Pageetc_bot"; 
+    $chatId = "6056728866"; 
     $message = "First Name: $firstName\nLast Name: $lastName";
 
     // Send message to Telegram
